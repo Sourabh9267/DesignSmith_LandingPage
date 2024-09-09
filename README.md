@@ -19,6 +19,10 @@ HTML
 ,JS
 ,GSAP
 
+### Reference Image as on freepik: 
+https://www.freepik.com/free-psd/design-landing-page-template_13840600.htm#fromView=search&page=2&position=30&uuid=8e4af2e2-e2f6-4202-9b82-33ef8c1737b2
+
+![image](https://github.com/user-attachments/assets/949292e0-0fd6-4214-8d09-abf3b7b0ebec)
 
 
 ###How to Use

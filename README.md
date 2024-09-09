@@ -15,9 +15,12 @@ JS
 GSAP
 
 
+
 How to Use
 To view or edit the landing page, simply clone the repository and open the index.html file in your browser.
 
 
 git clone https://github.com/Sourabh9267/DesignSmith_LandingPage.git
+
+
 Feel free to contribute or provide feedback!

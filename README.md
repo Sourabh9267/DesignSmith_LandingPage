@@ -25,6 +25,11 @@ https://www.freepik.com/free-psd/design-landing-page-template_13840600.htm#fromV
 ![image](https://github.com/user-attachments/assets/949292e0-0fd6-4214-8d09-abf3b7b0ebec)
 
 
+### preview
+
+![Design Smith Gif](https://github.com/user-attachments/assets/9f241ab6-bc90-4435-bbba-1af815adda3f)
+
+
 ###How to Use
 To view or edit the landing page, simply clone the repository and open the index.html file in your browser.
 
